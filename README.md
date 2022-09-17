@@ -6,7 +6,7 @@
 ### Framework
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> 
 
-![geonheock's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geonhyeock&theme=default&show_icons=true)
+![geonheock's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geonhyeock&theme=default&show_icons=true&theme=dark)
 
 
 

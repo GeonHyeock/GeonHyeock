@@ -1,8 +1,8 @@
 # Hello 👋
 
 ### Study
-<img src="https://img.shields.io/badge/-artificial intelligence-000000?style=flat-square/></a> <img src="https://img.shields.io/badge/-machine learning-000000?style=flat-square/></a> <img src="https://img.shields.io/badge/-deep learning-000000?style=flat-square/></a>
-<img src="https://img.shields.io/badge/-computer vision-000000?style=flat-square/></a>
+<img src="https://img.shields.io/badge/-artificial intelligence-000000?style=flat-square"/></a> <img src="https://img.shields.io/badge/-machine learning-000000?style=flat-square"/></a> <img src="https://img.shields.io/badge/-deep learning-000000?style=flat-square"/></a>
+<img src="https://img.shields.io/badge/-computer vision-000000?style=flat-square"/></a>
 
 
 

@@ -1,6 +1,7 @@
-# Hi there 👋
+# Hello 👋
 
-
+### Study
+<img src="https://img.shields.io/badge/artificial intelligence-000000?style=flat-square> <img src="https://img.shields.io/badge/machine learning-000000?style=flat-square> <img src="https://img.shields.io/badge/deep learning-000000?style=flat-square> <img src="https://img.shields.io/badge/neural network-000000?style=flat-square> <img src="https://img.shields.io/badge/computer vision-000000?style=flat-square>
 
 ### Programming Language
 <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/R-000000?style=flat-square&logo=R&logoColor=white">

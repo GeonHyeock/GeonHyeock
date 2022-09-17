@@ -3,7 +3,7 @@
 
 
 ### Programming Language
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/R-000000?style=for-the-badge&logo=R&logoColor=white">
+<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/R-000000?style=flat-square&logo=R&logoColor=white">
 
 ### Framework
 <img src="https://img.shields.io/badge/Pytorch-000000?style=flat-square&logo=Pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/numpy-000000?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-000000?style=flat-square&logo=pandas&logoColor=white"/> 

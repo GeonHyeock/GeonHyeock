@@ -26,5 +26,5 @@
 |Date|Name|
 |:---:|:---:|
 |2023.03 ~ ing...|Mathematical Intelligence Lab|
-|2022.09 ~ 2023.02|네이버 부스트캠프 AI Tech 4th <br/> Track : Computer Vision|
+|2022.09 ~ 2023.02|[네이버 부스트캠프 AI Tech 4th <br/> Track : Computer Vision](네이버부스트캠프.pdf)|
 

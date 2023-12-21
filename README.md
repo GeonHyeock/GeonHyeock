@@ -17,7 +17,8 @@
 ## 💡Projcet
 |Date|Name|Code|
 |:---:|:---:|:---:|
-|2023.08 ~ 진행중|CDV Detection|[Click](https://github.com/GeonHyeock/MLOps-CDV-Detection-Model) |
+|2023.12 ~ ing...|Deep Learning for Chromatic Number of Graph|[Click](https://github.com/GeonHyeock/Deep-Learning-Chromatic-Number-of-Graphs) |
+|2023.08 ~ 2023.11|CDV Detection using MLflow|[Click](https://github.com/GeonHyeock/MLOps-CDV-Detection-Model) |
 |2023.01.09 ~ 2023.02.09|모의고사 자동 채점 시스템|[Click](https://github.com/boostcampaitech4lv23cv3/level3_productserving-level3-cv-14) |
 
 

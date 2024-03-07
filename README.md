@@ -1,6 +1,4 @@
-# Profil
-**Double major in Mathematics and Statistics**
-
+# Repository Navigator
 
 ## 🔥 Competition
 

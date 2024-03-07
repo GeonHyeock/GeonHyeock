@@ -18,14 +18,5 @@
 |Date|Name|Code|
 |:---:|:---:|:---:|
 |2023.12 ~ ing...|Deep Learning for Chromatic Number of Graph|[Click](https://github.com/GeonHyeock/Deep-Learning-Chromatic-Number-of-Graphs) |
-|2023.08 ~ 2023.11|CDV Detection using MLflow|[Click](https://github.com/GeonHyeock/MLOps-CDV-Detection-Model) |
+|2023.08 ~ 2024.03|CDV Detection using MLflow|[Click](https://github.com/GeonHyeock/CDV-Detection-using-MLflow) |
 |2023.01.09 ~ 2023.02.09|모의고사 자동 채점 시스템|[Click](https://github.com/boostcampaitech4lv23cv3/level3_productserving-level3-cv-14) |
-
-
-
-## 📖 Experience
-|Date|Name|
-|:---:|:---:|
-|2023.03 ~ ing...|Mathematical Intelligence Lab|
-|2022.09 ~ 2023.02|[네이버 부스트캠프 AI Tech 4th <br/> Track : Computer Vision](네이버부스트캠프.pdf)|
-

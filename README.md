@@ -16,7 +16,7 @@
 |Date|Name|Code|
 |:---:|:---:|:---:|
 |2023.12 ~ 2024.05|Planar Graph Classification : Graph Neural Network for Graphs|[🏅Click](https://github.com/GeonHyeock/Planar-Graph-Classification)|
-|2023.08 ~ 2024.03|CDV Detection using MLflow|[Click](https://github.com/GeonHyeock/CDV-Detection-using-MLflow) |
+|2023.08 ~ 2024.03|CDV Detection using MLflow|[📄Click](https://github.com/GeonHyeock/CDV-Detection-using-MLflow) |
 |2023.01.09 ~ 2023.02.09|모의고사 자동 채점 시스템|[Click](https://github.com/boostcampaitech4lv23cv3/level3_productserving-level3-cv-14) |
 
 ## 📖 Etc

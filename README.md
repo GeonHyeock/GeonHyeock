@@ -7,7 +7,8 @@
 Data Engineer, Data Analyst, Data Scientist와 같은 DATA 직군에 대하여 전반적으로 관심을 갖고 성장하고 있습니다.
 
 
-[CV](이력서_허건혁_V-2.0.pdf)
+<a href="https://geonhyeock.github.io/CV/이력서_허건혁_V-2.0.pdf" style="color: inherit; text-decoration: none;">CV</a>
+
 
 ## Experience
 

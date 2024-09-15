@@ -9,10 +9,9 @@ Data Engineer, Data Analyst, Data Scientist와 같은 DATA 직군에 대하여 �
 
 <a href="https://geonhyeock.github.io/CV/이력서_허건혁_V-2.0.pdf" style="color: inherit; text-decoration: none;">CV</a>
 
+<div align="left">
 
 ## Experience
-
-<div align="left">
 
 <details>
 <summary>(2023.03 ~ 2024.08) Mathematical Intelligence Lab</summary>

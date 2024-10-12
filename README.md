@@ -25,7 +25,7 @@ Data Engineer, Data Analyst, Data Scientist와 같은 DATA 직군에 대하여 �
 ## 🔥 Competition
 |Date|Name|Rank|Code|
 |:---:|:---:|:---:|:---:|
-|2023.07.04 ~ 2023.08.07|2024 인하 인공지능 챌린지 <br/> Multi modal Recommender System| 17th / 38th|[click](https://github.com/GeonHyeock/Machine-Reading-Comprehension)|
+|2023.07.04 ~ 2023.08.07|2024 인하 인공지능 챌린지 <br/> Machine Reading Comprehension| 17th / 38th|[click](https://github.com/GeonHyeock/Machine-Reading-Comprehension)|
 |2023.08.21 ~ 2023.10.02|2023 Samsung AI Challenge <br/> Image Quality Assessment|6th / 57th|[caption](https://github.com/GeonHyeock/Samsung-Image-Quality-Assessment-Captioning) <br/> [mos](https://github.com/lliee1/Samsung-Image-Quality-Assessment-Mos)|
 |2023.07.04 ~ 2023.08.07|2023 인하 인공지능 챌린지 <br/> Multi modal Recommender System| 1st / 23th|[🏅click](https://github.com/GeonHyeock/Competition-Multi-modal-Recommender-System)|
 

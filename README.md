@@ -4,10 +4,7 @@
 
 ## ⭐️ Geon Hyeock Heo ⭐️
 
-Data Engineer, Analyst, Scientist 등 DATA 직군에 대하여 전반적으로 관심을 갖고 성장하고 있습니다.
-
-
-[Linkedin](https://www.linkedin.com/in/%EA%B1%B4%ED%98%81-%ED%97%88-b33b9332b/)
+링크드인 : [Linkedin](https://www.linkedin.com/in/%EA%B1%B4%ED%98%81-%ED%97%88-b33b9332b/)
 
 
 <div align="left">
